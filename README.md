@@ -1,8 +1,7 @@
 ## Hi there, I'm Bruno Lima,  👋
-- 🌱 Actually I’m learning Go lang;
+- 🌱 Actually I’m learning golang;
 - 💬 Ask me anything about web development, it would be a pleasure to share and learn with you;
-- 🎒 Main Tools: VSCode, Docker, Goland and GitHub;
-- ⚡ Fun fact: I love games mainly God of war 🐱‍👤;
+- 🎒 Main Tools: PhpStorm, Docker, Goland and GitHub;
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
