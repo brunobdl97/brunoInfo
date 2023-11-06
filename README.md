@@ -11,7 +11,7 @@
   <img align="center" alt="Bruno-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   <img align="center" alt="Bruno-Docker" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Bruno-Go" height="30" width="40"src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original-wordmark.svg" />
-  <img align="center" alt="Bruno-MySQL" height="30" width="40"src="[https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original-wordmark.svg" />
+  <img align="center" alt="Bruno-MySQL" height="30" width="40"src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />
 
 </div>
   
