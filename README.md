@@ -1,5 +1,5 @@
 ## Hi there, I'm Bruno Lima,  👋
-- 🌱 Actually I’m learning golang;
+- 🌱 Actually I’m learning golang and diving deep in Laravel Framework;
 - 💬 Ask me anything about web development, it would be a pleasure to share and learn with you;
 - 🎒 Main Tools: PhpStorm, Docker, Goland and GitHub;
   
