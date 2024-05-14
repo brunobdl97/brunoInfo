@@ -2,22 +2,10 @@
 - 🌱 Actually I’m diving deep in Nest.js;
 - 💬 Ask me anything about web development, it would be a pleasure to share and learn with you;
 - 🎒 Main Tools: PhpStorm, Docker, Goland and GitHub;
-  
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruno-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Bruno-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-  <img align="center" alt="Bruno-Docker" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Bruno-Go" height="30" width="40"src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original-wordmark.svg" />
-  <img align="center" alt="Bruno-MySQL" height="30" width="40"src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />
-
-</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,wordpress,sass,tailwind,js,jquery,git,github,php,go,nodejs,ts,laravel,symfony,nestjs,docker,mysql,linux,npm,figma,notion,phpstorm,vscode,stackoverflow" />
   </a>
 </p>
   
