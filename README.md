@@ -13,7 +13,7 @@
   
 <div>
   
-  <a href="https://www.linkedin.com/in/bruno-lima-627a99181/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a align="center" href="https://www.linkedin.com/in/bruno-lima-627a99181/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
   ![snake animation](https://github.com/brunobdl97/brunobdl97/blob/output/github-contribution-grid-snake2.svg)
