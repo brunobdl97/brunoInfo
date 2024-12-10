@@ -1,5 +1,5 @@
 ## Hi there, I'm Bruno Lima,  👋
-- 🌱 Actually I’m diving deep in Nest.js;
+- 🌱 Actually I’m diving deep in Nest.js and Golang;
 - 💬 Ask me anything about web development, it would be a pleasure to share and learn with you;
 - 🎒 Main Tools: PhpStorm, Docker, Goland and GitHub;
 
